@@ -1,0 +1,176 @@
+{"frames": {
+
+"rsz_1rsz_deep_forest":
+{
+	"frame": {"x":0,"y":0,"w":155,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":96},
+	"sourceSize": {"w":155,"h":96}
+},
+"satyr-Sheet-die-20":
+{
+	"frame": {"x":158,"y":103,"w":20,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":20,"h":21},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-21":
+{
+	"frame": {"x":179,"y":20,"w":23,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":23,"h":17},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-22":
+{
+	"frame": {"x":155,"y":20,"w":24,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":9,"w":24,"h":19},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-23":
+{
+	"frame": {"x":49,"y":96,"w":24,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":24,"h":23},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-24":
+{
+	"frame": {"x":94,"y":96,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":23,"h":23},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-25":
+{
+	"frame": {"x":72,"y":96,"w":25,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":25,"h":22},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-26":
+{
+	"frame": {"x":117,"y":96,"w":25,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":25,"h":21},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-27":
+{
+	"frame": {"x":0,"y":96,"w":27,"h":21},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":27,"h":21},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-die-28":
+{
+	"frame": {"x":21,"y":96,"w":28,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":28,"h":20},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-0":
+{
+	"frame": {"x":178,"y":81,"w":20,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":20,"h":21},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-1":
+{
+	"frame": {"x":155,"y":39,"w":20,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":20,"h":22},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-2":
+{
+	"frame": {"x":155,"y":59,"w":20,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":20,"h":22},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-3":
+{
+	"frame": {"x":138,"y":96,"w":20,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":20,"h":24},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-4":
+{
+	"frame": {"x":155,"y":0,"w":20,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":20,"h":23},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-5":
+{
+	"frame": {"x":158,"y":81,"w":20,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":20,"h":22},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-6":
+{
+	"frame": {"x":179,"y":102,"w":20,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":7,"w":20,"h":21},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-7":
+{
+	"frame": {"x":178,"y":0,"w":20,"h":23},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":20,"h":23},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-8":
+{
+	"frame": {"x":175,"y":59,"w":20,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":20,"h":22},
+	"sourceSize": {"w":32,"h":32}
+},
+"satyr-Sheet-jump-9":
+{
+	"frame": {"x":177,"y":39,"w":20,"h":22},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":20,"h":22},
+	"sourceSize": {"w":32,"h":32}
+}},
+"animations": {
+	"satyr-Sheet-die": ["satyr-Sheet-die-20","satyr-Sheet-die-21","satyr-Sheet-die-22","satyr-Sheet-die-23","satyr-Sheet-die-24","satyr-Sheet-die-25","satyr-Sheet-die-26","satyr-Sheet-die-27","satyr-Sheet-die-28"],
+	"satyr-Sheet-jump": ["satyr-Sheet-jump-0","satyr-Sheet-jump-1","satyr-Sheet-jump-2","satyr-Sheet-jump-3","satyr-Sheet-jump-4","satyr-Sheet-jump-5","satyr-Sheet-jump-6","satyr-Sheet-jump-7","satyr-Sheet-jump-8","satyr-Sheet-jump-9"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "satyr.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":123},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a58455af5eb5b30cca8ffc81f340a37e:74bbb9032067a05fe9ae432ab9bf7904:ae976d04eb86fc92c00d6cf0d5407a51$"
+}
+}
